@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016446525081",
+    "project_id": "binary-bdm-app",
+    "storage_bucket": "binary-bdm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016446525081:android:048b7d14271c23444d6208",
+        "android_client_info": {
+          "package_name": "com.binarycodetechnologies.binarybdmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016446525081-66jep4k0s9qe3baunpgrssvlbb5v8a4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNELjSVpEnDPUg5VaXbS9g7OdouKGgP7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016446525081-66jep4k0s9qe3baunpgrssvlbb5v8a4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
